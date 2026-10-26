@@ -9,7 +9,7 @@
 
 **AI Character Studio** is a web application designed for crafting custom AI personas and engaging in expressive, real-time roleplay dialogue. Built with a clean monochrome architectural aesthetic, the platform allows users to shape character identities, switch between multiple LLM reasoning engines, and experience ultra-low latency token streaming directly in the browser.
 
-**Live Demo:** [your-project-name.vercel.app](https://your-project-name.vercel.app)
+**Live Demo:** [https://ai-character-studio-v1.vercel.app/](https://ai-character-studio-v1.vercel.app/)
 
 ---
 
